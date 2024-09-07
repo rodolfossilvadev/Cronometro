@@ -10,5 +10,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-javas">
 <p>Este é um projeto de Croômetro onde o usuário tem as funções básicas de um cronômetro</p>
 https://rodolfossilvadev.github.io/Cronometro/
+<br>
 <img src="https://github.com/rodolfossilvadev/Cronometro/blob/main/assets/desktop.jpg?raw=true" alt="desktop-cronometro"
   height="350px">
